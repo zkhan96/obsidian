@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "929e78c9c0a08587",
+    "type": "split",
+    "children": [
+      {
+        "id": "6851b1619e6786c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4ba392c3e8b4ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e543f9e5cafaf7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9226abbdb73599c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec91f9fc6db6228b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5f5a3dde44981c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "680a00f4108833d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a60862126e269d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96e2af282b9e954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b7631239274075",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a0e734d6ce76012",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "913f48327ffbfa70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28b4d387d88877d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd4ba392c3e8b4ab",
+  "lastOpenFiles": [
+    "2023-06-20.md",
+    "Untitled.canvas",
+    "Usul Fiqh/'aam and khaas diagram.canvas",
+    "Usul Fiqh",
+    "Untitled.md"
+  ]
+}
