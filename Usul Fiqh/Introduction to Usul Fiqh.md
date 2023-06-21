@@ -8,10 +8,10 @@
 ## From Dala'il Sam'iyyah:
 
 1. Kitab-ullah: 500+ ayaat relating to ahkam
-2. Sunnatu-rasooli: An Action of the Prophet (s.a.w.) 
+2. Sunnatu-rasooli: An Action of the Prophet (s.a.w.) - Sunnah is used as an action can never be [[maudoo]]
 
 ## From Dala'il Ghayr Sam'iyyah:
-3. Ijma' 
+3. Ijma' - starting from ijma' of the sahabah
 4. Qiyas
 
 # Evidences, and their Breakdown
@@ -29,7 +29,8 @@
 - The evidence being used is irrefutably authentic i.e. [[mutawatir]], and the meaning of the evidence is disputed among scholars.
 
 ### Hukm
-- TODO: Find this
+- #todo 
+
 ### Example:
 - When a divorcee has to wait three cycles (thalathata Quroo') which is established from Qur'an. However, does Quroo' here mean a period of purity or impurity?
 
