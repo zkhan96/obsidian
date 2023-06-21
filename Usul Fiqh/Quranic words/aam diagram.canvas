@@ -7,7 +7,7 @@
 		{"type":"text","text":"lafdhee\nin language","id":"abfa468f42b1d883","x":-660,"y":85,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"lam yuhassa 'anhu shay'an\nno specificity\nThis is dhannee\n[tawbah:100]\nAll the ansar were included, none were limited","id":"2e4c5c432437c1eb","x":480,"y":81,"width":317,"height":179,"color":"3"},
 		{"type":"text","text":"[[Aam]]\n'alaa sabeeli ijtimaa'i\nit is inclusive to many meanings","id":"eb7da7f288bcc3ed","x":-40,"y":-400,"width":250,"height":140},
-		{"type":"text","text":"The meaning of khas can be repealed by 'aam","id":"2dc596618f42aa61","x":-40,"y":260,"width":250,"height":66}
+		{"type":"text","text":"The meaning of khas can be repealed by aam","id":"2dc596618f42aa61","x":-40,"y":260,"width":250,"height":66}
 	],
 	"edges":[
 		{"id":"b3bace5fc80608f8","fromNode":"eb7da7f288bcc3ed","fromSide":"bottom","toNode":"761d054a0b944c54","toSide":"top"},

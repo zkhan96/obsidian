@@ -3,7 +3,7 @@ title: "Khas"
 enableToc: true
 ---
 
-Translation: Specific ^af2098
+Translation: Specific
 
 ## There are 3 types of Khas
 
