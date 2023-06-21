@@ -1,4 +1,5 @@
 Translation: Specific
+
 # Khasul fard
 - A word used for a specific reason, or one person
 - [[Qat'i]] and yaqeeni
