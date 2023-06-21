@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,7 +162,13 @@
   "active": "49feacbb584bbddb",
   "lastOpenFiles": [
     "Usul Fiqh/Quranic words/Khas.md",
+    "Usul Fiqh/Quranic words/Aam.md",
+    "Usul Fiqh/Quranic words/20 words to memorise.png",
+    "Usul Fiqh/Quranic words/'aam diagram.canvas",
+    "_index.md",
     "templates/post.md",
+    "Hadith/maudoo.md",
+    "Hadith/khabr wahid.md",
     "templates",
     "private/private-note.md",
     "private",
@@ -188,15 +195,8 @@
     "notes/callouts.md",
     "notes/CJK + Latex Support (测试).md",
     "notes",
-    "_index.md",
     "Usul Fiqh/Introduction to Usul Fiqh.md",
     "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
-    "Usul Fiqh/Quranic words/Aam.md",
-    "Usul Fiqh/Quranic words/'aam diagram.canvas",
-    "Usul Fiqh/Quranic words/20 words to memorise.png",
-    "Usul Fiqh/Glossary/Qat'i.md",
-    "Usul Fiqh/Glossary/mutawatir.md",
-    "Usul Fiqh/Glossary/Dhannee.md",
     "Usul Fiqh/Quranic words",
     "Hadith/Untitled",
     "Hadith",
