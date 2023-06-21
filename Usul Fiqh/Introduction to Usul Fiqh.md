@@ -1,3 +1,7 @@
+---
+title: "Introduction to Usul Fiqh"
+enableToc: true
+---
 # What is Usul Fiqh?
 - It is a set of principles that allows you to derive rulings from their evidences
 - The ahnaf were the first to establish usul
@@ -8,7 +12,7 @@
 ## From Dala'il Sam'iyyah:
 
 1. Kitab-ullah: 500+ ayaat relating to ahkam
-2. Sunnatu-rasooli: An Action of the Prophet (s.a.w.) - Sunnah is used as an action can never be [[maudoo]]
+2. Sunnatu-rasooli: An Action of the Prophet (s.a.w.) - Sunnah is used as an action can never be [maudoo](Hadith/maudoo.md)
 
 ## From Dala'il Ghayr Sam'iyyah:
 3. Ijma' - starting from ijma' of the sahabah
@@ -16,8 +20,8 @@
 
 # Evidences, and their Breakdown
 
-## [[Qat'i]] [[At-thuboot]] and [[Qat'i]] [[Ad-dalalah]]
-- The evidence being used is irrefutably authentic i.e. [[mutawatir]], and the meaning of the evidence is irrefutably clear.
+## [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md) [At-thuboot](Usul%20Fiqh/Glossary/At-thuboot.md) and [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md) [Ad-dalalah](Usul%20Fiqh/Glossary/Ad-dalalah.md)
+- The evidence being used is irrefutably authentic i.e. [mutawatir](Usul%20Fiqh/Glossary/mutawatir.md), and the meaning of the evidence is irrefutably clear.
 
 ### Hukm
 - You can prove fardh and haraam with it and there is no dispute amongst the scholars regarding it.
@@ -25,8 +29,8 @@
 ### Example
 - Establishment of the prayer.
 
-## [[Qat'i]] [[At-thuboot]] and [[Dhannee]] [[Ad-dalalah]]
-- The evidence being used is irrefutably authentic i.e. [[mutawatir]], and the meaning of the evidence is disputed among scholars.
+## [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md) [At-thuboot](Usul%20Fiqh/Glossary/At-thuboot.md) and [Dhannee](Usul%20Fiqh/Glossary/Dhannee.md) [Ad-dalalah](Usul%20Fiqh/Glossary/Ad-dalalah.md)
+- The evidence being used is irrefutably authentic i.e. [mutawatir](Usul%20Fiqh/Glossary/mutawatir.md), and the meaning of the evidence is disputed among scholars.
 
 ### Hukm
 - #todo 
@@ -34,7 +38,7 @@
 ### Example:
 - When a divorcee has to wait three cycles (thalathata Quroo') which is established from Qur'an. However, does Quroo' here mean a period of purity or impurity?
 
-## [[Dhannee]] [[At-thuboot]] and [[Qat'i]] [[Ad-dalalah]]
+## [Dhannee](Usul%20Fiqh/Glossary/Dhannee.md) [At-thuboot](Usul%20Fiqh/Glossary/At-thuboot.md) and [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md) [Ad-dalalah](Usul%20Fiqh/Glossary/Ad-dalalah.md)
 - The evidence is a khabr wahid, but the matn is undisputed.
 
 ### Hukm
@@ -43,8 +47,8 @@
 ### Example 
 - Every action is upon its intention
 
-## [[Dhannee]] [[At-thuboot]] and [[Dhannee]] [[Ad-dalalah]]
-- The evidence is a khabr wahid, and the meaning of the evidence is disputed among scholars.
+## [Dhannee](Usul%20Fiqh/Glossary/Dhannee.md) [At-thuboot](Usul%20Fiqh/Glossary/At-thuboot.md) and [Dhannee](Usul%20Fiqh/Glossary/Dhannee.md) [Ad-dalalah](Usul%20Fiqh/Glossary/Ad-dalalah.md)
+- The evidence is a [khabr wahid](Hadith/khabr%20wahid.md), and the meaning of the evidence is disputed among scholars.
 
 ### Hukm
 - You can only prove mustahabb down to makruh tanzihi.

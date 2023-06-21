@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "338b2ceaf2db7a31",
+        "id": "9fe5cdf7bd7adf73",
         "type": "tabs",
         "children": [
           {
-            "id": "5831aaa2dc4d5cc9",
+            "id": "e76214370573aede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Khas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49feacbb584bbddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Usul Fiqh/Introduction to Usul Fiqh.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usul Fiqh/Introduction to Usul Fiqh.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Usul Fiqh/Introduction to Usul Fiqh.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Usul Fiqh/Introduction to Usul Fiqh.md"
+                "file": "_index.md"
               }
             }
           }
@@ -159,17 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49feacbb584bbddb",
+  "active": "e76214370573aede",
   "lastOpenFiles": [
-    "Hadith/maudoo.md",
-    "Usul Fiqh/Introduction to Usul Fiqh.md",
+    "Usul Fiqh/Glossary/Glossary.md",
     "_index.md",
-    "Usul Fiqh/Quranic words/'aam diagram.canvas",
+    "Usul Fiqh/Usul Fiqh.md",
+    "Hadith/Hadith.md",
+    "Hadith/maudoo.md",
+    "Hadith/khabr wahid.md",
+    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
     "Usul Fiqh/Quranic words/Khas.md",
+    "Usul Fiqh/Glossary/At-thuboot.md",
+    "Usul Fiqh/Glossary/Ad-dalalah.md",
+    "Usul Fiqh/Introduction to Usul Fiqh.md",
+    "templates/post.md",
     "Usul Fiqh/Quranic words/Aam.md",
     "Usul Fiqh/Quranic words/20 words to memorise.png",
-    "templates/post.md",
-    "Hadith/khabr wahid.md",
+    "Usul Fiqh/Quranic words/'aam diagram.canvas",
+    "Usul Fiqh/Glossary/Qat'i.md",
+    "Usul Fiqh/Glossary/Dhannee.md",
+    "Usul Fiqh/Glossary/mutawatir.md",
     "templates",
     "private/private-note.md",
     "private",
@@ -188,15 +184,7 @@
     "notes/obsidian.md",
     "notes/images",
     "notes/ignore notes.md",
-    "notes/hosting.md",
-    "notes/editing.md",
-    "notes/docker.md",
-    "notes/custom Domain.md",
-    "notes/config.md",
-    "notes/callouts.md",
-    "notes/CJK + Latex Support (测试).md",
     "notes",
-    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
     "Usul Fiqh/Quranic words",
     "Hadith/Untitled",
     "Hadith",
