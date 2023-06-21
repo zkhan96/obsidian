@@ -41,9 +41,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Usul Fiqh/Quranic words/Aam.md",
+                    "file": "Hadith/khabr wahid.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   }
                 }
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Aam.md",
+                "file": "Hadith/khabr wahid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Aam.md",
+                "file": "Hadith/khabr wahid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Aam.md"
+                "file": "Hadith/khabr wahid.md"
               }
             }
           }
@@ -210,9 +210,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dcbaff60052c67e",
+  "active": "befcf2fbdf34fa1f",
   "lastOpenFiles": [
-    "Usul Fiqh/'aam diagram.canvas",
+    "Usul Fiqh/Quranic words/'aam diagram.canvas",
     "Usul Fiqh/Quranic words/Aam.md",
     "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
     "Usul Fiqh/Quranic words/Khas.md",
