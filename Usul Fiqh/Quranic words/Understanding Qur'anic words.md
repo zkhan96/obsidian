@@ -1,5 +1,5 @@
 # There are 20 ways of understanding Qur'anic words:
-![[Pasted image 20230621150258.png]]
+![[20 words to memorise.png]]
 ## [[Khas]]
 ## [[Aam]]
 ## Mushtarak

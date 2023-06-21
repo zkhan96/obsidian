@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c3896407d668885b",
+        "id": "cce34dc557839c0a",
         "type": "split",
         "children": [
           {
             "id": "aa2d8c6eefc1abc5",
             "type": "tabs",
+            "dimension": 63.36206896551724,
             "children": [
               {
                 "id": "fc3f2c291055f0a0",
@@ -17,33 +18,33 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Usul Fiqh/Quranic words/Khas.md",
+                    "file": "Usul Fiqh/Introduction.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   }
                 }
               },
               {
-                "id": "967cc9dbfa80b538",
+                "id": "ce7f95f45bab00cc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
+                    "file": "Usul Fiqh/Glossary/Dhannee.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "5b6b4d79cdbbe2b3",
+            "id": "22e2049daabc32f7",
             "type": "tabs",
+            "dimension": 36.637931034482754,
             "children": [
               {
-                "id": "df373de0fc6065d9",
+                "id": "d6a24020f8a267fc",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
+                "file": "Usul Fiqh/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
+                "file": "Usul Fiqh/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md"
+                "file": "Usul Fiqh/Introduction.md"
               }
             }
           }
@@ -180,22 +181,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "967cc9dbfa80b538",
+  "active": "fc3f2c291055f0a0",
   "lastOpenFiles": [
-    "Pasted image 20230621150258.png",
+    "Usul Fiqh/Glossary/Dhannee.md",
+    "Dhannee.md",
     "Usul Fiqh/Introduction.md",
-    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
-    "Hadith/khabr wahid.md",
-    "Usul Fiqh/Quranic words/'aam diagram.canvas",
-    "Usul Fiqh/Quranic words/Aam.md",
     "Usul Fiqh/Quranic words/Khas.md",
+    "Usul Fiqh/Quranic words/Aam.md",
+    "Usul Fiqh/Quranic words/'aam diagram.canvas",
+    "Usul Fiqh/Quranic words/20 words to memorise.png",
+    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
+    "Usul Fiqh/Glossary/Ad-dalalah.md",
+    "Usul Fiqh/Glossary/Qat'i.md",
+    "Hadith/khabr wahid.md",
     "Usul Fiqh/Quranic words",
     "Hadith/Untitled",
     "Hadith/Untitled.md",
     "Hadith",
     "Usul Fiqh/Glossary/At-thuboot.md",
-    "Usul Fiqh/Glossary/Qat'i.md",
-    "Usul Fiqh/Glossary/Dhannee'.md",
     "Usul Fiqh/Glossary/mutawatir.md",
     "Usul Fiqh/Glossary.md",
     "Usul Fiqh/Glossary",
