@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Usul Fiqh/Introduction.md",
+                    "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
                     "mode": "source",
                     "source": false
                   }
@@ -54,24 +54,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "e092ee9de43eea95",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3dcbaff60052c67e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Usul Fiqh/Quranic words/Aam.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Usul Fiqh/Introduction.md",
+                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Usul Fiqh/Introduction.md",
+                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Usul Fiqh/Introduction.md"
+                "file": "Usul Fiqh/Quranic words/Understanding Qur'anic words.md"
               }
             }
           }
@@ -200,8 +182,9 @@
   },
   "active": "967cc9dbfa80b538",
   "lastOpenFiles": [
-    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
+    "Pasted image 20230621150258.png",
     "Usul Fiqh/Introduction.md",
+    "Usul Fiqh/Quranic words/Understanding Qur'anic words.md",
     "Hadith/khabr wahid.md",
     "Usul Fiqh/Quranic words/'aam diagram.canvas",
     "Usul Fiqh/Quranic words/Aam.md",
