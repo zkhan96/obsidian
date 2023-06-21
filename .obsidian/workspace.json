@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6851b1619e6786c3",
+        "id": "3d2f8b49bc9cc71f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4ba392c3e8b4ab",
+            "id": "a754e67137298f84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Usul Fiqh/'aam and khaas diagram.canvas",
+                "viewState": {
+                  "x": 68.5,
+                  "y": -27,
+                  "zoom": -0.683392680477187
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Usul Fiqh/'aam and khaas diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Usul Fiqh/'aam and khaas diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +127,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Usul Fiqh/'aam and khaas diagram.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd4ba392c3e8b4ab",
+  "active": "a754e67137298f84",
   "lastOpenFiles": [
+    "Usul Fiqh/'aam and khaas diagram.canvas",
     "2023-06-20.md",
     "Untitled.canvas",
-    "Usul Fiqh/'aam and khaas diagram.canvas",
     "Usul Fiqh",
     "Untitled.md"
   ]
