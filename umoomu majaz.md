@@ -1,3 +1,0 @@
-When somebody swears by Allah that they will not enter somebody’s house, societal norms would say that you’d typically step your foot into the home. If you took it literally, I.e. haqiqah muta’addhirah, you could talk about the skin of your foot touching the home. But societal norm wouldn’t fit this.
-
-Definition: diverting from the literal meaning, towards the culturally understood and accepted meaning.
