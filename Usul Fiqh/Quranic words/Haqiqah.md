@@ -1,5 +1,4 @@
 Definition: a word being used in the meaning it was derived for
-
 Example: 
 A person swears by Allah that they will not eat from this tree.
 
