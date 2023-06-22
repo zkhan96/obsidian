@@ -14,4 +14,4 @@ Another example:
 A man swears by Allah that he will not buy a head, urfan this means cow, goat, sheep head. 
 If someone was to bring a chicken head, or a fish head, this would contradict societal norms. 
 
-Between haqiqah and majaz there is [[umoomu majaz]] 
+Between haqiqah and majaz there is [umoomu majaz](Usul%20Fiqh/Quranic%20words/umoomu%20majaz.md)
