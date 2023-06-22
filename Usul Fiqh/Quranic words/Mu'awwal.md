@@ -1,3 +1,7 @@
+---
+title: "Mu'awwal"
+enableToc: true
+---
 Definition: One that has been given precedence over all other meanings.
 
 Example of thalathata quroo. The hayd from quroo was made Mu’awwal over the other meanings I.e. tuhr.
