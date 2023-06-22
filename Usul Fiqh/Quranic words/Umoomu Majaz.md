@@ -2,7 +2,8 @@
 title: "Umoomu Majaz"
 enableToc: true
 ---
-Definition: diverting from the literal meaning, towards the culturally understood and accepted meaning.
+## Definition
+Diverting from the literal meaning, towards the culturally understood and accepted meaning.
 
 Umoom: comes from aam. In other words; what the general society deem acceptable.
 
