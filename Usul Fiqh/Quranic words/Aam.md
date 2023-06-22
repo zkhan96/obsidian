@@ -5,7 +5,7 @@ enableToc: true
 
 > 'Alaa sabeeli ijtimaa: It is inclusive to many meanings
 
-This is a diagram that summarises Aam: ![aam diagram](Usul%20Fiqh/Quranic%20words/aam%20diagram.png)
+This is a diagram that summarises Aam: ![aam diagram](Usul%20Fiqh/Quranic%20words/Aam%20diagram.png)
 
 
 - Aam is divided into 2 types:
