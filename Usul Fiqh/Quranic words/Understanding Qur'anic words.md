@@ -6,8 +6,8 @@ enableToc: false
 ![20 words to memorise](Usul%20Fiqh/Quranic%20words/20%20words%20to%20memorise.png)
 1. [Khas](Usul%20Fiqh/Quranic%20words/Khas.md)
 2. [Aam](Usul%20Fiqh/Quranic%20words/Aam.md)
-3. Mushtarak
-4. Mu'awwal
+3. [Mushtarak](Usul%20Fiqh/Quranic%20words/Mushtarak.md)
+4. [[Mu'awwal]]
 5. Haqiqah
 6. Majaz
 7. Sareeh
