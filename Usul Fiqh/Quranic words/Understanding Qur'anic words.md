@@ -7,8 +7,8 @@ enableToc: false
 1. [Khas](Usul%20Fiqh/Quranic%20words/Khas.md)
 2. [Aam](Usul%20Fiqh/Quranic%20words/Aam.md)
 3. [Mushtarak](Usul%20Fiqh/Quranic%20words/Mushtarak.md)
-4. [[Mu'awwal]]
-5. Haqiqah
+4. [Mu’awwal](Usul%20Fiqh/Quranic%20words/Mu’awwal.md)
+5. [Haqiqah](Haqiqah.md)
 6. Majaz
 7. Sareeh
 8. Kinayah
