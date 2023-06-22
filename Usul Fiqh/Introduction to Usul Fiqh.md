@@ -23,7 +23,7 @@ enableToc: true
 Terminology: [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md), [Dhannee](Usul%20Fiqh/Glossary/Dhannee.md), [At-thuboot](Usul%20Fiqh/Glossary/At-thuboot.md), [Ad-dalalah](Usul%20Fiqh/Glossary/Ad-dalalah.md)
 
 ## Qat'i At-thuboot and Qat'i Ad-dalalah
-- The evidence being used is irrefutably authentic i.e. [mutawatir](Usul%20Fiqh/Glossary/mutawatir.md), and the meaning of the evidence is irrefutably clear.
+- The evidence being used is irrefutably authentic i.e. [Mutawatir](Usul%20Fiqh/Glossary/Mutawatir.md), and the meaning of the evidence is irrefutably clear.
 
 ### Hukm
 - You can prove fardh and haraam with it and there is no dispute amongst the scholars regarding it.
@@ -32,7 +32,7 @@ Terminology: [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md), [Dhannee](Usul%20Fiqh/Gloss
 - Establishment of the prayer.
 
 ## Qat'i At-thuboot and Dhannee Ad-dalalah
-- The evidence being used is irrefutably authentic i.e. [mutawatir](Usul%20Fiqh/Glossary/mutawatir.md), and the meaning of the evidence is disputed among scholars.
+- The evidence being used is irrefutably authentic i.e. [Mutawatir](Usul%20Fiqh/Glossary/Mutawatir.md), and the meaning of the evidence is disputed among scholars.
 
 ### Hukm
 - #todo 

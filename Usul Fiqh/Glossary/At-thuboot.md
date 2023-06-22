@@ -1,1 +1,1 @@
-Where it comes from i.e. Is it an established evidence? Is it [mutawatir](Usul%20Fiqh/Glossary/mutawatir.md)?
+Where it comes from i.e. Is it an established evidence? Is it [Mutawatir](Usul%20Fiqh/Glossary/Mutawatir.md)?
