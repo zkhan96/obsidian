@@ -13,7 +13,7 @@ Here is a diagram of Haqiqah:
 You could take the haqiqah (literal meaning) from it. There are 4 scenarios:
 1. Haqiqah muta’addhirah: it is near impossible to achieve it
 2. Haqiqah mahjoorah: it is near impossible due to societal norms (urfan) and shari’ah
-3. Haqiqah musta’malah: where urfan and shar’an it is accepted and practiced, and it is wajib to do aml upon it 
+3. Haqiqah musta'malah: where urfan and shar’an it is accepted and practiced, and it is wajib to do aml upon it 
 4. Haqiqah qaasirah: it is allowed in the shariah potentially, but societal norm will dictate whether it is possible or not
 
 ## Example 2: 
