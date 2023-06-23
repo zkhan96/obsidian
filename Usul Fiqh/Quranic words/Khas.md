@@ -7,6 +7,7 @@ Translation: Specific
 
 ## There are 3 types of Khas
 
+
 ### Khasul fard
 - A word used for a specific reason, or one person
 - [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md) and yaqeeni

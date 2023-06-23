@@ -6,7 +6,7 @@ enableToc: false
 - [Introduction to Usul Fiqh](Usul%20Fiqh/Introduction%20to%20Usul%20Fiqh.md)
 - [Understanding Qur'anic words](Usul%20Fiqh/Quranic%20words/Understanding%20Qur'anic%20words.md)
 
-## Tafsir
-- [Baqarah 142-143](Quran/Baqarah%20142-143.md)
 ## Hadith
 #todo 
+This is a change from my iPad.
+
