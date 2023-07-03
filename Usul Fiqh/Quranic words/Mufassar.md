@@ -1,3 +1,7 @@
+---
+title: "Mufassar"
+enableToc: true
+---
 ## Definition 
 Explained
 

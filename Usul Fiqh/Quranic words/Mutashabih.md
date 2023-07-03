@@ -1,3 +1,7 @@
+---
+title: "Mutashabih"
+enableToc: true
+---
 ## Definition
 There is even more ambiguity than [Mujmal](Usul%20Fiqh/Quranic%20words/Mujmal.md). When there is so much ambiguity, that there is no understanding them and there is no room for elaboration.
 

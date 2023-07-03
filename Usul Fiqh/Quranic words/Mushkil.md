@@ -1,4 +1,7 @@
-
+---
+title: "Mushkil"
+enableToc: true
+---
 ## Definition
 The way we defined Nass was that there was an evidence to explain the word. 
 

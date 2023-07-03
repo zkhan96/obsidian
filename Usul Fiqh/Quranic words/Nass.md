@@ -1,3 +1,8 @@
+---
+title: "Nass"
+enableToc: true
+---
+## Definition
 Theres a different between [Dhahir](Usul%20Fiqh/Quranic%20words/Dhahir.md) and nass. The mujtahid would use the support of a daleel to ascertain the dhahir meaning.
 
 Nass is when it is dhahir, but it requires a bit of justification using daleel.

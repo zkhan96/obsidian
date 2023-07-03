@@ -1,3 +1,7 @@
+---
+title: "Khafiy"
+enableToc: true
+---
 #todo Khafiy, mushkil, mujmal, mutashabih run parallel to
 dhahir, nass, mufassar, muhkam
 

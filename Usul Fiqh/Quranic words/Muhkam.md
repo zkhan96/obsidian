@@ -1,3 +1,7 @@
+---
+title: "Muhkam"
+enableToc: true
+---
 ## Definition
 Mufassar is such that in the time of the Prophet ﷺ, it could be abrogated, but muhkam, even at the time of the Prophet ﷺ, leaves no room for [naskh](Usul%20Fiqh/Glossary/naskh.md)
 

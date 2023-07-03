@@ -1,3 +1,7 @@
+---
+title: "Dhahir"
+enableToc: true
+---
 ## Definition
 Apparent
 

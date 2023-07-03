@@ -1,3 +1,7 @@
+---
+title: "Kinayah"
+enableToc: true
+---
 ## Definition
 Ambiguous
 

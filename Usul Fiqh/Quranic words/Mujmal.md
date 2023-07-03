@@ -1,3 +1,7 @@
+---
+title: "Mujmal"
+enableToc: true
+---
 #todo Runs in parallel to mufassar.
 ## Definition
 Mujmal comprises of both [Khafiy](Usul%20Fiqh/Quranic%20words/Khafiy.md) and [Mushkil](Usul%20Fiqh/Quranic%20words/Mushkil.md) because using common sense, you can never get to the true understanding. It requires expert opinion to help you understand the meaning.
