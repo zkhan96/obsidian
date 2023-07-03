@@ -10,6 +10,6 @@ The ahlul kitab did not accept due to hasad, they didnt want to leave their book
 
 When Ibrahim a.s. Made dua that the prophets remain in his bloodline, all of the prophets were put under the lineage of Ishaq, and the Prophet ﷺ alone was under the lineage of Ismail.
 
-![Lineage of Ibrahims prophets](Lineage%20of%20Ibrahims%20prophets.canvas)
+![Lineage of Ibrahims prophets](Ilmul%20rijaal/Lineage%20of%20Ibrahims%20prophets.canvas)
 
 Their scholars knew, but they hid the truth on purpose.
