@@ -5,7 +5,7 @@ Surah baqarah:183
 Bukhari:1899
 Musnad Ahmad:6637
 
-Fasting is 5 types
+Fasting is of 5 types:
 1. Fard
 	2. Fard mu'ayyah: specified i.e. ramadan
 	3. Fard ghayr mu'ayyan: non specified i.e. make up fasts
