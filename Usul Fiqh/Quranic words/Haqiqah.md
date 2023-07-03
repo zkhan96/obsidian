@@ -23,7 +23,7 @@ You could take the haqiqah (literal meaning) from it. There are 4 scenarios:
 Between haqiqah and majaz there is [Umoomu Majaz](Usul%20Fiqh/Quranic%20words/Umoomu%20Majaz.md)
 
 The ahnaf and the shafi'is say that haqiqah and [Majaz](Usul%20Fiqh/Quranic%20words/Majaz.md) come together under certain criteria:
-1. When same word has been hsed
+1. When same word has been used
 2. The word has been used at the same time
 3. It has to be intended for both haqiqah and majaz meanings
 The ahnaf say this is a valid use case. If you dont intend for both of them, then it will be only one or the other 

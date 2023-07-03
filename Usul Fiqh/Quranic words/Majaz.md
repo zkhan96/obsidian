@@ -1,3 +1,4 @@
+## Definition
 The opposite of [Haqiqah](Usul%20Fiqh/Quranic%20words/Haqiqah.md), it is the metaphorical meaning.
 
 The ahnaf and the shafi'is say that haqiqah and majaz come together under certain criteria:

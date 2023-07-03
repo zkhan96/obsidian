@@ -1,4 +1,5 @@
-Definition: Explicit
+## Definition
+Explicit
 
 In fiqh: A statement so explicit that there is no reasonable doubt that it can be anything else in meaning.
 
