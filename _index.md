@@ -9,6 +9,8 @@ enableToc: false
 ## Tafsir
 - [Baqarah 142-143](Quran/Baqarah%20142-143.md)
 - [Baqarah 144](Quran/Baqarah%20144.md)
+- [Baqarah 145-147](Quran/Baqarah%20145-147.md)
+- [Baqarah 150-152](Quran/Baqarah%20150-152.md)
 
 ## Hadith
 #todo 

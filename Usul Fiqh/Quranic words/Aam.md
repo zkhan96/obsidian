@@ -1,6 +1,5 @@
 ---
 title: "Aam"
-enableToc: true
 ---
 
 > 'Alaa sabeeli ijtimaa: It is inclusive to many meanings

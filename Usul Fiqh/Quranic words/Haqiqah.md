@@ -1,6 +1,5 @@
 ---
 title: "Haqiqah"
-enableToc: true
 ---
 ## Definition
 - A word being used in the meaning it was derived for

@@ -1,6 +1,5 @@
 ---
 title: "Majaz"
-enableToc: true
 ---
 ## Definition
 The opposite of [Haqiqah](Usul%20Fiqh/Quranic%20words/Haqiqah.md), it is the metaphorical meaning.

@@ -1,6 +1,5 @@
 ---
 title: "Mu'awwal"
-enableToc: true
 ---
 ## Definition
 - One that has been given precedence over all other meanings.

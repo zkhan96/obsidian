@@ -1,6 +1,5 @@
 ---
 title: "Umoomu Majaz"
-enableToc: true
 ---
 ## Definition
 - Diverting from the literal meaning, towards the culturally understood and accepted meaning.

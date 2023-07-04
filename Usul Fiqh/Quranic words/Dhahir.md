@@ -1,6 +1,5 @@
 ---
 title: "Dhahir"
-enableToc: true
 ---
 ## Definition
 Apparent
@@ -14,3 +13,5 @@ If you fear you cannot do justice, the implied meaning is clear that if you cann
 
 ## Example 2
 Im the Quran: A Muhrim goes to hajj, when you come out ihram, you slaughter an animal
+
+![Quranic words Ambiguity diagram](Usul%20Fiqh/Quranic%20words/Quranic%20words%20Ambiguity%20diagram.png)

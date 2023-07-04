@@ -1,6 +1,5 @@
 ---
 title: "Nass"
-enableToc: true
 ---
 ## Definition
 Theres a different between [Dhahir](Usul%20Fiqh/Quranic%20words/Dhahir.md) and nass. The mujtahid would use the support of a daleel to ascertain the dhahir meaning.
@@ -14,3 +13,5 @@ The ayah for marrying multiple, it makes permissible marrying multiple, the nass
 
 The dhahir meaning is marry more than one
 The nass meaning is marry maximum 4
+
+![Quranic words Ambiguity diagram](Usul%20Fiqh/Quranic%20words/Quranic%20words%20Ambiguity%20diagram.png)

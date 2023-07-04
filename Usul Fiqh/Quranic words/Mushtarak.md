@@ -1,6 +1,5 @@
 ---
 title: "Mushtarak"
-enableToc: true
 ---
 ## Definition
 It can potentially cater for many things in its meaning. This is the difference between [Aam](Usul%20Fiqh/Quranic%20words/Aam.md) and this. It has the capacity for many but does not.

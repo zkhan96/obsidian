@@ -1,6 +1,5 @@
 ---
 title: "Mufassar"
-enableToc: true
 ---
 ## Definition 
 Explained
@@ -20,3 +19,5 @@ A mufassar statement is dhahir and nass as well.
 ## Difference between tafseer and ta'weel
 Tafseer is elaboration
 Ta'weel is when you divert the meaning to something else provided you have evidence to prove this
+
+![Quranic words Ambiguity diagram](Usul%20Fiqh/Quranic%20words/Quranic%20words%20Ambiguity%20diagram.png)

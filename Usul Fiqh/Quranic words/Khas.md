@@ -1,6 +1,5 @@
 ---
 title: "Khas"
-enableToc: true
 ---
 
 Translation: Specific

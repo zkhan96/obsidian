@@ -1,6 +1,5 @@
 ---
 title: "Mushkil"
-enableToc: true
 ---
 ## Definition
 The way we defined Nass was that there was an evidence to explain the word. 
@@ -22,3 +21,5 @@ A principle of nahw is the greater the word, the greater the meaning. So for men
 When a woman reaches the maximum time for menses (10 days), she does not need to take ghusl and can become intimate with her husband. Whereas for men, there is no limit, and you must take a ghusl before any ibadaat.
 
 The ishkal is that the same root words are used, however, the words were in different templates and therefore ijtihaad had to take place.
+
+![Quranic words Ambiguity diagram](Usul%20Fiqh/Quranic%20words/Quranic%20words%20Ambiguity%20diagram.png)

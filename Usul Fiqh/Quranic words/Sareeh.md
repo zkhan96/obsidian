@@ -1,6 +1,5 @@
 ---
 title: "Sareeh"
-enableToc: true
 ---
 ## Definition
 Explicit
