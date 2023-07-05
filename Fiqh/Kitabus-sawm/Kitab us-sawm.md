@@ -48,6 +48,34 @@ The coming of the second twilight is when fajr begins and the time for fasting b
 3. Subhul layl: you distribute the night into 7 parts and the last part is fajr 
 4. Aqrabul bilaad: the closest city that has a proper fajr and isha
 
-The one who breaks the fast forgetfully it is like Allah has nourished him
+- The one who breaks the fast forgetfully it is like Allah has nourished him
 Bukhari:6669
 
+3 things do not break the fast:
+1. Hijama
+2. Vomiting
+3. Wet dreams
+Jaami tirmidhi:719
+Darul qutni
+
+- If you put kohl on, and you feel the taste in your throat, this is still permitted.
+- The use of toothpaste is makruh tahrimi.
+- The use of inhalers will break the fast. Same with nose spray.
+- Taking in steam will break the fast.
+- Masturbation breaks the fast, but no kaffaarah. However, the ulema say that if one is a repeat offender, he has to pay kaffaarah, as he has achieved full satisfaction. Mufti akmals opinion.
+
+If someone eats or drinks during the fast, there is dispute whether there is kaffarah. Imam [Abu hanifah](Ilmul%20rijaal/Abu%20hanifah.md) says that there is qadaa and kaffarah.
+Saheeh ibn habbaan:3523
+
+Kaffaarah is only applied in fasts of Ramadan.
+
+It is makruh to release sperm between navel and knee of his wife during fasting and during her menses.
+
+Nicotine patches, injections that do not enter the stomach, does not break the fast.
+
+In principle, anything that enters:
+- Mouth
+- Nose
+- Ear
+- Stomach
+- Anus?
