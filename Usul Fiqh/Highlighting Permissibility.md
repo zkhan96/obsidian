@@ -1,4 +1,3 @@
-## Highlighting Permissibility
 Sometimes an amr is an ibaahah, i.e. is it highlighting its permissibility.
 
 ### Example

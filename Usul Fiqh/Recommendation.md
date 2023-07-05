@@ -1,4 +1,3 @@
-## Recommendation 
 Sometimes an amr is an irshad (a recommendation).
 
 ### Example
