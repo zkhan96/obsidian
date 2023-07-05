@@ -6,25 +6,11 @@ The general usul in hanafi fiqh is al amru lilwujoob, a commandment is to be com
 
 A commandment can come in different types. We're going to cover a few examples below.
 
-## Repeating
-When a commandment is given, is there repetition or not? Does the action need to be repeated more than once and continuously? The type of evidence will dictate whether there is repetition or not.
+![Repeating](Usul%20Fiqh/Commandments/Repeating.md)
 
-### Example
-Sacrificing an animal during the days of tashreek
+![Recommendation](Usul%20Fiqh/Recommendation.md)
 
-## Recommendation 
-Sometimes an amr is an irshad (a recommendation).
-
-### Example
-The ayah of whenever you establish a contract, you should have witnesses.
-[Baqarah:282](https://quran.com/2?startingVerse=282)
-
-## Highlighting Permissibility
-Sometimes an amr is an ibaahah, i.e. is it highlighting its permissibility.
-
-### Example
-The ayah of a dog being trained to catch a prey and not kill it, then it is permitted to eat from it
-[Maidah:4](https://quran.com/5?startingVerse=4)
+![Highlighting Permissibility](Usul%20Fiqh/Highlighting%20Permissibility.md)
 
 ## To Honour
 Sometimes an amr is an ikraam (to give value).

@@ -1,6 +1,3 @@
 ---
-title: "post"
----
----
 title: "{{title}}"
 ---
