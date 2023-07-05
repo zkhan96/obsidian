@@ -8,15 +8,15 @@ A commandment can come in different types. We're going to cover a few examples b
 
 ![Repeating](Usul%20Fiqh/Commandments/Repeating.md)
 
-![Recommendation](Usul%20Fiqh/Recommendation.md)
+![Recommendation](Usul%20Fiqh/Commandments/Recommendation.md)
 
-![Highlighting Permissibility](Usul%20Fiqh/Highlighting%20Permissibility.md)
+![Highlighting Permissibility](Usul%20Fiqh/Commandments/Highlighting%20Permissibility.md)
 
 ![To Honour](Usul%20Fiqh/To%20Honour.md)
 
 ![To Ridicule](Usul%20Fiqh/To%20Ridicule.md)
 
-![Implied Commandment](Usul%20Fiqh/Implied%20Commandment.md)
+![Implied Commandment](Usul%20Fiqh/Commandments/Implied%20Commandment.md)
 
 ## Is the amr limited?
 There are two types of amr:

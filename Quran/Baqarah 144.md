@@ -1,3 +1,6 @@
+---
+title: "Baqarah 144"
+---
 The Prophet ﷺ was leading the prayer at another masjid, and in his heart he wanted the qiblah to change, and he started looking up to the sky, in the hopes the qiblah changes, he did this 3/4 times and then this ayah was revealed.
 
 This is a case where wahy was sent down during prayer, this is a unique attribute of our Prophet ﷺ.

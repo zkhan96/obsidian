@@ -1,3 +1,6 @@
+---
+title: "Baqarah 142-143"
+---
 The qibla was changed 16 months after hijrah. Allah says that the Jews will say the Muslims always oppose us. So he informed the Prophet ﷺ to say to them for Allah is the east and the west. 
 
 Ummatan wasataa: the best. The middle is seen as the best I.e. between youth and old, the middle is the best. In that same way, we are a middle ummah. Islam’s rulings aren’t too strict nor too soft.

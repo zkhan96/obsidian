@@ -1,3 +1,6 @@
+---
+title: "Baqarah 145-147"
+---
 When the qiblah changed, the jews made a ruckus about this, so Allah says that no matter what proof you bring, they will not accept.
 
 This ayah is an indication that the qiblah will never change again after this.

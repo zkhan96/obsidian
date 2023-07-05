@@ -1,3 +1,6 @@
+---
+title: "Baqarah 150-152"
+---
 
 Allah says to turn towards the new qiblah so that the enemies of Allah are not left with any hijjah (evidence) against them. This evidence being that the jews also worship towards masjid aqsa. This left them with no evidence against them. And the mushrikeen would say the Muslims believe in the prophethood of Ibrahim a.s. So why do you not face the Ka'bah?
 
