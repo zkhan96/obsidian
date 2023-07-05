@@ -26,3 +26,24 @@ There are two types of amr:
 ### Can amr be limited to time and place? 
 Yes, for example, Hajj. Or for a sacrifice for a major mistake done during hajj, must only be done within the haram.
 
+## Fulfilling commandments
+## Adaa
+Translation: performance
+Instruction by shari'ah to fulfill something at its correct time. 
+
+## Example
+You perform fajr salah in its fajr time, this is called adaa
+
+Adaa has two types:
+1. Kamil: in the best form
+2. Qasir: minimum
+
+The highest form of adaa of salah is adaa with jama'ah, this is adaa kamil.
+
+Qasir would be, outside of jama'ah
+
+## Qadaa
+The instruction to be fulfilled but the way it was meant to be fulfilled, it was not
+
+In both cases, it was wajib
+
