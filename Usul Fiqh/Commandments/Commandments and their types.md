@@ -12,9 +12,9 @@ A commandment can come in different types. We're going to cover a few examples b
 
 ![Highlighting Permissibility](Usul%20Fiqh/Commandments/Highlighting%20Permissibility.md)
 
-![To Honour](Usul%20Fiqh/To%20Honour.md)
+![To Honour](Usul%20Fiqh/Commandments/To%20Honour.md)
 
-![To Ridicule](Usul%20Fiqh/To%20Ridicule.md)
+![To Ridicule](Usul%20Fiqh/Commandments/To%20Ridicule.md)
 
 ![Implied Commandment](Usul%20Fiqh/Commandments/Implied%20Commandment.md)
 
