@@ -1,3 +1,7 @@
+---
+title: "Azeemah (honourable)"
+---
+
 Where the rule of the shariah is the asl, and there is no consideration for human limitations on whether it can be done or not, it is imposed upon everyone across the board. There are 4 types:
 1. Fard or Fard i'tiqaadi
 	1. It is lazim - obligatory, proven with a daleel [Qat'i](Usul%20Fiqh/Glossary/Qat'i.md)
