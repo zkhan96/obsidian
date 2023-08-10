@@ -26,6 +26,7 @@ Where the rule of the shariah is the asl, and there is no consideration for huma
 		3. Sunan zaa'idah i.e. sunnah ghayr mu'akkadah (non emphasised)
 			1. Actions of the Prophet ﷺ done habitually, and not as a form of worship
 4. Nafl
-	1. To do it is rewarding
+	1. To do it is rewarding with the correct intention
 	2. To miss it, is not a sin, nor is he condemned on the day of judgement
-	3. However, times have changed
+	3. It is any amr that is additional to fard and wajib which the shariah has permitted
+	4. The ahnaf say if you start a nafl and you break it, then it becomes lazim upon yourself [Muhammad:33](https://quran.com/47?startingVerse=33)
