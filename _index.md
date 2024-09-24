@@ -2,6 +2,10 @@
 title: "Zohaib's Dars Notes"
 enableToc: false
 ---
+## Fiqh
+- [Kitab at-taharah](Fiqh/Kitab%20at-taharah/Kitab%20at-taharah.md)
+- [Kitab us-sawm](Fiqh/Kitabus-sawm/Kitab%20us-sawm.md)
+- [Those whom are eligible for sadaqah](Fiqh/Kibatuz-zakat/Those%20whom%20are%20eligible%20for%20sadaqah.md)
 ## Usul Fiqh
 - [Introduction to Usul Fiqh](Usul%20Fiqh/Introduction%20to%20Usul%20Fiqh.md)
 - [Understanding Qur'anic words](Usul%20Fiqh/Quranic%20words/Understanding%20Qur'anic%20words.md)
