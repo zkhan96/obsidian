@@ -47,3 +47,4 @@ The instruction to be fulfilled but the way it was meant to be fulfilled, it was
 
 In both cases, it was wajib
 
+#todo finish this and all of the recordings
