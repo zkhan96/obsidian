@@ -4,6 +4,8 @@ enableToc: false
 ---
 ## Fiqh
 - [Kitab at-taharah](Fiqh/Kitab%20at-taharah/Kitab%20at-taharah.md)
+	- [Types of purifying water](Fiqh/Kitab%20at-taharah/Types%20of%20purifying%20water.md)
+	- [Rulings of Remnant water](Fiqh/Kitab%20at-taharah/Rulings%20of%20Remnant%20water.md)
 - [Kitab us-sawm](Fiqh/Kitabus-sawm/Kitab%20us-sawm.md)
 - [Those whom are eligible for sadaqah](Fiqh/Kibatuz-zakat/Those%20whom%20are%20eligible%20for%20sadaqah.md)
 ## Usul Fiqh
