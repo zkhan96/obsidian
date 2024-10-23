@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"19db0ce7c7ccd7e4","x":-171,"y":0,"width":250,"height":60,"type":"text","text":"Ja'iz"},
-		{"id":"6ddec159d225ac7d","x":-171,"y":100,"width":250,"height":60,"type":"text","text":"Makruh Tanzihi"},
-		{"id":"ec0af3da06628df6","x":-171,"y":200,"width":250,"height":60,"type":"text","text":"Makruh Tahrimi"},
-		{"id":"d26a12128a4d1d16","x":-171,"y":300,"width":250,"height":60,"type":"text","text":"Haram"},
-		{"id":"bc4cb5dc5cfc9114","x":-171,"y":-102,"width":250,"height":60,"type":"text","text":"Mustahhab"},
-		{"id":"1881ecc72a9c71bf","x":-171,"y":-196,"width":250,"height":60,"type":"text","text":"Sunnah"},
-		{"id":"af6595e967cc720d","x":-171,"y":-298,"width":250,"height":60,"type":"text","text":"Wajib"},
-		{"id":"70346efd5432938c","x":-171,"y":-400,"width":250,"height":60,"type":"text","text":"Fard"}
+		{"id":"19db0ce7c7ccd7e4","type":"text","text":"Ja'iz","x":-171,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"6ddec159d225ac7d","type":"text","text":"Makruh Tanzihi","x":-171,"y":100,"width":250,"height":60,"color":"2"},
+		{"id":"ec0af3da06628df6","type":"text","text":"Makruh Tahrimi","x":-171,"y":200,"width":250,"height":60,"color":"1"},
+		{"id":"d26a12128a4d1d16","type":"text","text":"Haram","x":-171,"y":300,"width":250,"height":60,"color":"1"},
+		{"id":"bc4cb5dc5cfc9114","type":"text","text":"Mustahhab","x":-171,"y":-102,"width":250,"height":60,"color":"4"},
+		{"id":"1881ecc72a9c71bf","type":"text","text":"Sunnah","x":-171,"y":-196,"width":250,"height":60,"color":"4"},
+		{"id":"af6595e967cc720d","type":"text","text":"Wajib","x":-171,"y":-298,"width":250,"height":60,"color":"5"},
+		{"id":"70346efd5432938c","type":"text","text":"Fard","x":-171,"y":-400,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"011741cf6f6549bd","fromNode":"70346efd5432938c","fromSide":"bottom","toNode":"af6595e967cc720d","toSide":"top"},
