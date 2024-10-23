@@ -9,7 +9,7 @@ These rulings are only pertaining to what is classed as a small pit of water (sm
 
 It is important to understand the level of Ahkam:
 
-![The levels of Ahkam](Fiqh/Kitab%20at-taharah/The%20levels%20of%20Ahkam.canvas)
+![The levels of Ahkam](Fiqh/Kitab%20at-taharah/The%20levels%20of%20Ahkam.png)
 
 Fard: Obligatory via Quranic verse (todo: check)
 Wajib: Obligatory via a hadith (todo: check)
