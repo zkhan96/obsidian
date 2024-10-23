@@ -11,6 +11,7 @@ It is important to understand the level of Ahkam:
 
 ![The levels of Ahkam](Fiqh/Kitab%20at-taharah/The%20levels%20of%20Ahkam.png)
 
+#todo 
 Fard: Obligatory via Quranic verse (todo: check)
 Wajib: Obligatory via a hadith (todo: check)
 Sunnah: Something the Prophet ﷺ did regularly
