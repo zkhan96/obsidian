@@ -1,4 +1,4 @@
-Safwan bin umayyah was given payments despite being wealthy, this ruling was abrogated (to give to those to soften their hearts).
+[[Ilmul rijaal/Safwan bin umayyah]] was given payments despite being wealthy, this ruling was abrogated (to give to those to soften their hearts).
 
 Umar farooqs time, the sahabah agreed that this is now abrogated.
 

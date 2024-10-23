@@ -1,4 +1,4 @@
-[[Imam Shurunbulali]] says there are 7 types of water that are clean:
+[Imam Shurunbulali](Ilmul%20rijaal/Imam%20Shurunbulali.md) says there are 7 types of water that are clean:
 - Rainwater
 	- Why is rainwater from the waters that are clean? Because it is from a [Muhkam](Usul%20Fiqh/Quranic%20words/Muhkam.md) verse
 - Seawater
@@ -18,6 +18,6 @@ E.g. Tea is not called water, its called tea because the tea dominates the water
 ### The categories of water
 1. Pure and purifying:  pure, unrestricted water
 2. Pure and purifying, but disliked: water that a cat or similar has drunk, and amount is small (there is debate whether this is makruh tahrimi or tanzihi, but tanzihi is dominant)
-3. Pure but not purifying (maa-ul musta'mal): water that has been used to remove an impurity ([[hadath]]) or for [[ghusl]]
+3. Pure but not purifying (maa-ul musta'mal): water that has been used to remove an impurity ([hadath](Fiqh/Glossary/hadath.md)) or for [[Fiqh/Glossary/ghusl]]
 4. Impure water
 5. Water that is doubted for cleanliness
