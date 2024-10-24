@@ -6,17 +6,12 @@ The general usul in hanafi fiqh is al amru lilwujoob, a commandment is to be com
 
 A commandment can come in different types. We're going to cover a few examples below.
 
-![Repeating](Usul%20Fiqh/Commandments/Repeating.md)
-
-![Recommendation](Usul%20Fiqh/Commandments/Recommendation.md)
-
-![Highlighting Permissibility](Usul%20Fiqh/Commandments/Highlighting%20Permissibility.md)
-
-![To Honour](Usul%20Fiqh/Commandments/To%20Honour.md)
-
-![To Ridicule](Usul%20Fiqh/Commandments/To%20Ridicule.md)
-
-![Implied Commandment](Usul%20Fiqh/Commandments/Implied%20Commandment.md)
+- [Repeating](Usul%20Fiqh/Commandments/Repeating.md)
+- [Recommendation](Usul%20Fiqh/Commandments/Recommendation.md)
+- [Highlighting Permissibility](Usul%20Fiqh/Commandments/Highlighting%20Permissibility.md)
+- [To Honour](Usul%20Fiqh/Commandments/To%20Honour.md)
+- [To Ridicule](Usul%20Fiqh/Commandments/To%20Ridicule.md)
+- [Implied Commandment](Usul%20Fiqh/Commandments/Implied%20Commandment.md)
 
 ## Is the amr limited?
 There are two types of amr:
